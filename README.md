@@ -1,3 +1,4 @@
+```markdown
 # Proyecto de Movilidad Eléctrica para Taxis
 
 ## Introducción
@@ -101,3 +102,16 @@ Los taxis y servicios como Uber, que han revolucionado la forma en que nos movem
 5. **Visualización de datos y resultados en Power BI y Streamlit:**
    - Crear dashboards e informes en Power BI para visualizar datos y resultados de modelos de machine learning.
    - Desarrollar aplicaciones web interactivas en Streamlit para permitir una interacción más profunda con los datos y los modelos de ML.
+
+## Stack Tecnológico
+
+- **Azure Data Factory:** Orquestación y manejo de pipelines de datos.
+- **Azure Synapse Analytics:** Almacenamiento y análisis de datos a gran escala.
+- **Azure SQL Database:** Almacenamiento de datos estructurados.
+- **Databricks:** Transformación avanzada de datos utilizando PySpark.
+- **Azure Machine Learning:** Entrenamiento y despliegue de modelos de machine learning.
+- **Scikit-Learn:** Implementación de modelos de machine learning, incluyendo K-Means y DBSCAN.
+- **Power BI:** Visualización y creación de dashboards interactivos.
+- **Streamlit:** Desarrollo de aplicaciones web interactivas para la visualización y análisis de datos.
+- **NYC Open Data & TLC Trip Record Data:** Fuentes de datos para análisis y modelado.
+```
