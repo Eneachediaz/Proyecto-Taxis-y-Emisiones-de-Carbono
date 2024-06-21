@@ -8,7 +8,7 @@
 
 ### Datasets NYK Taxis:
 - **Presencia de Valores Nulos**: Encontramos valores nulos en columnas como `PUlocationID`, `DOlocationID`, `airport_fee`. Además, valores en `0` para `passenger_count` y `trip_distance`.
-- **Impacto en el Análisis**: Consideramos que los valores faltantes podrían afectar los análisis posteriores y decidimos eliminar los valores nulos de `PUlocationID`, `DOlocationID`. En el resto de las columnas, se suprimieron al agrupar.
+- **Impacto en el Análisis**: Consideramos que los valores faltantes podrían afectar los análisis posteriores y decidimos eliminar los valores nulos de `PUlocationID`, `DOlocationID`. En el resto de las filas, se suprimieron al agrupar.
 
 ### Alternative Fuel Vehicles:
 - **Presencia de Valores Nulos**: Alta tasa de valores nulos en columnas como `All-Electric Range` (660), `PHEV Total Range` (839) y `Number of Passengers` (761) con más del 70% de datos faltantes. Tasa moderada en `Alternative Fuel Economy Combined` (620) y `Conventional Fuel Economy Combined` (438) con alrededor del 50-70% de datos faltantes. Baja tasa en `Model Year`, con 288 valores faltantes (aproximadamente el 33%).
