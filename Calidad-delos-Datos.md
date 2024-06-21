@@ -1,4 +1,4 @@
-![Logo](ruta_del_logo.png)
+![Encabezado](./Recursos%20de%20Marca/Encabezado%20sin%20fondo.png)
 
 # Análisis de la Calidad de los Datos
 
@@ -78,4 +78,4 @@
 
 ---
 
-![Footer](ruta_del_pie_de_pagina.png)
+![Footer](./Recursos%20de%20Marca/Pie%20de%20Pagina.png)
