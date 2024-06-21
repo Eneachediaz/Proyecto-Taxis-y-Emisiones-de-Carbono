@@ -20,7 +20,6 @@ Los taxis y servicios como Uber, que han revolucionado la forma en que nos movem
 
 1. **Construyendo la autopista de datos en la nube:**
    - Desarrollar un pipeline y arquitectura de datos robustos en la nube para procesar y almacenar de manera eficiente la gran cantidad de datos disponibles.
-   - Garantizar la seguridad, escalabilidad y confiabilidad de la infraestructura de datos.
 
 2. **Dashboard interactivo:**
    - Crear un dashboard interactivo y fácil de usar que presente información relevante para la toma de decisiones sobre la implementación de la flota eléctrica.
@@ -38,7 +37,6 @@ Los taxis y servicios como Uber, que han revolucionado la forma en que nos movem
 
 2. **El mapa del futuro: Un modelo de machine learning para la ubicación de estaciones de carga:**
    - Implementar un modelo de machine learning preciso para identificar las ubicaciones óptimas para las estaciones de carga de vehículos eléctricos.
-   - Garantizar una distribución eficiente de las estaciones de carga que responda a la demanda y optimice la experiencia del usuario.
 
 ## Equipo
 
