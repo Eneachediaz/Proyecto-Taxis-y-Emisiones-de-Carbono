@@ -1,5 +1,6 @@
-# Proyecto de Movilidad Eléctrica para Taxis
+![Cabeza](Recursos%20de%20Marca/Encabezado%20sin%20fondo.png)
 
+# Proyecto de Movilidad Eléctrica para Taxis
 ## Introducción
 
 Los taxis y servicios como Uber, que han revolucionado la forma en que nos movemos, generan a la vez una avalancha de datos que, bien aprovechados, pueden ser la clave para un futuro más verde. Este proyecto busca expandir la flota hacia la movilidad eléctrica, tomando decisiones informadas basadas en un análisis profundo del movimiento de los taxis, su relación con la contaminación y la viabilidad de la electrificación. Este proyecto combina innovación, análisis y responsabilidad social para transformar el panorama del transporte en la ciudad, reduciendo la huella de carbono, mejorando la imagen pública y optimizando costos.
@@ -111,4 +112,6 @@ Los taxis y servicios como Uber, que han revolucionado la forma en que nos movem
 - **Power BI:** Visualización y creación de dashboards interactivos.
 - **Streamlit:** Desarrollo de aplicaciones web interactivas para la visualización y análisis de datos.
 - **NYC Open Data & TLC Trip Record Data:** Fuentes de datos para análisis y modelado.
-```
+
+  
+![Pie](Recursos%20de%20Marca/Pie%20de%20Pagina.png)
