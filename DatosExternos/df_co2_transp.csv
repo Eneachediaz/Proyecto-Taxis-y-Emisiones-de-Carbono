@@ -1,0 +1,64 @@
+,year,fuel_type,transportation,total_co2_emissions,percent_of_total_co2_emissions
+0,2010,Natural Gas,0.37,65.02,35.0
+1,2010,Gasoline,49.82,49.82,26.8
+2,2010,Coal,,15.43,8.3
+3,2010,Heating Oil (Distillate),,13.99,7.5
+4,2010,Other Petroleum,0.37,4.44,2.4
+5,2010,Net Imports of Electricity,,9.16,4.9
+6,2010,Diesel Fuel (Distillate),13.17,13.17,7.1
+7,2010,Residual Oil,5.71,10.49,5.6
+8,2010,Jet Fuel,4.24,4.24,2.3
+9,2011,Natural Gas,0.4,66.27,37.8
+10,2011,Gasoline,48.42,48.42,27.6
+11,2011,Coal,,11.56,6.6
+12,2011,Heating Oil (Distillate),,13.62,7.8
+13,2011,Other Petroleum,0.35,4.21,2.4
+14,2011,Net Imports of Electricity,,7.26,4.1
+15,2011,Diesel Fuel (Distillate),12.86,12.86,7.3
+16,2011,Residual Oil,2.43,6.85,3.9
+17,2011,Jet Fuel,4.44,4.44,2.5
+18,2012,Natural Gas,0.37,66.96,39.2
+19,2012,Gasoline,48.6,48.6,28.5
+20,2012,Coal,,6.72,3.9
+21,2012,Heating Oil (Distillate),,14.27,8.4
+22,2012,Other Petroleum,0.33,4.1,2.4
+23,2012,Net Imports of Electricity,,5.06,3.0
+24,2012,Diesel Fuel (Distillate),12.73,12.73,7.5
+25,2012,Residual Oil,2.35,4.84,2.8
+26,2012,Jet Fuel,7.41,7.41,4.3
+27,2013,Natural Gas,0.46,69.95,40.6
+28,2013,Gasoline,49.13,49.13,28.5
+29,2013,Coal,,6.33,3.7
+30,2013,Heating Oil (Distillate),,12.88,7.5
+31,2013,Other Petroleum,0.34,3.71,2.2
+32,2013,Net Imports of Electricity,,4.59,2.7
+33,2013,Diesel Fuel (Distillate),12.68,12.68,7.4
+34,2013,Residual Oil,2.97,5.21,3.0
+35,2013,Jet Fuel,7.84,7.84,4.5
+36,2014,Natural Gas,0.55,74.09,41.9
+37,2014,Gasoline,48.99,48.99,27.7
+38,2014,Coal,,5.97,3.4
+39,2014,Heating Oil (Distillate),,13.2,7.5
+40,2014,Other Petroleum,0.36,4.0,2.3
+41,2014,Net Imports of Electricity,,4.18,2.4
+42,2014,Diesel Fuel (Distillate),12.89,12.89,7.3
+43,2014,Residual Oil,3.67,5.38,3.0
+44,2014,Jet Fuel,8.32,8.32,4.7
+45,2015,Natural Gas,0.63,74.41,42.9
+46,2015,Gasoline,48.23,48.23,27.8
+47,2015,Coal,,3.79,2.2
+48,2015,Heating Oil (Distillate),,14.35,8.3
+49,2015,Other Petroleum,0.39,4.14,2.4
+50,2015,Net Imports of Electricity,,3.35,1.9
+51,2015,Diesel Fuel (Distillate),12.73,12.73,7.3
+52,2015,Residual Oil,2.31,3.58,2.1
+53,2015,Jet Fuel,9.0,9.0,5.2
+54,2016,Natural Gas,0.67,71.15,42.9
+55,2016,Gasoline,46.81,46.81,28.2
+56,2016,Coal,,3.26,2.0
+57,2016,Heating Oil (Distillate),,11.01,6.6
+58,2016,Other Petroleum,0.4,4.06,2.4
+59,2016,Net Imports of Electricity,,3.8,2.3
+60,2016,Diesel Fuel (Distillate),12.57,12.57,7.6
+61,2016,Residual Oil,2.34,3.0,1.8
+62,2016,Jet Fuel,10.19,10.19,6.1

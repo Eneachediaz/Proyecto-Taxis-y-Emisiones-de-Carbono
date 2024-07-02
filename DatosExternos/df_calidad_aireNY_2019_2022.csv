@@ -1,0 +1,5 @@
+,TimePeriod,GeoType,GeoID,GeoRank,Geography,General population,PM2.5 98% percentile mcg/m3,PM2.5 annual average mcg/m3,Sensitive groups
+0,2022,Citywide,1,0,New York City,0,19.6,7.8,0
+1,2021,Citywide,1,0,New York City,1,22.9,8.3,1
+2,2020,Citywide,1,0,New York City,0,23.4,9.0,0
+3,2019,Citywide,1,0,New York City,0,23.5,9.4,0
