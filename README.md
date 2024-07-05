@@ -1,117 +1,152 @@
 ![Cabeza](Recursos%20de%20Marca/Encabezado%20sin%20fondo.png)
 
-# Proyecto de Movilidad Eléctrica para Taxis
-## Introducción
+Claro, aquí tienes una versión más detallada del plan del proyecto.
 
-Los taxis y servicios como Uber, que han revolucionado la forma en que nos movemos, generan a la vez una avalancha de datos que, bien aprovechados, pueden ser la clave para un futuro más verde. Este proyecto busca expandir la flota hacia la movilidad eléctrica, tomando decisiones informadas basadas en un análisis profundo del movimiento de los taxis, su relación con la contaminación y la viabilidad de la electrificación. Este proyecto combina innovación, análisis y responsabilidad social para transformar el panorama del transporte en la ciudad, reduciendo la huella de carbono, mejorando la imagen pública y optimizando costos.
+## Proyecto Movilidad Eléctrica para Taxis en Nueva York, EEUU
 
-## Planteo de Objetivos
+### Introducción:
+Los taxis y servicios como Uber han transformado significativamente el transporte urbano. Estos servicios generan una enorme cantidad de datos que, si se analizan adecuadamente, pueden facilitar la transición hacia una movilidad más sostenible. Este proyecto busca explorar la viabilidad de expandir la flota de taxis hacia vehículos eléctricos (EVs) en Nueva York, utilizando análisis de datos avanzados para tomar decisiones informadas que reduzcan la huella de carbono, mejoren la eficiencia operativa y optimicen los costos.
 
-### Objetivos Principales
+### Planteo de Objetivos:
 
-1. **Descifrando la viabilidad de los autos eléctricos en Nueva York:**
-   - Abordar la pregunta central: ¿Es viable implementar una flota de autos eléctricos para el transporte en la ciudad de Nueva York?
-   - Brindar información sólida para la toma de decisiones estratégicas para la implementación de la flota de autos eléctricos.
+#### Objetivos Principales:
+1. **Viabilidad de los autos eléctricos en Nueva York**:
+    - **Pregunta central**: ¿Es viable implementar una flota de autos eléctricos para el transporte de pasajeros en Nueva York?
+    - **Toma de decisiones estratégicas**: Proveer información sólida y accionable para apoyar la implementación de la flota de autos eléctricos.
 
-2. **Empoderando la toma de decisiones informadas:**
-   - Realizar un análisis exhaustivo del problema, considerando aspectos ambientales, económicos y logísticos.
-   - Generar insights accionables que guíen a la empresa hacia un camino sostenible y rentable.
+2. **Empoderar la toma de decisiones informadas**:
+    - **Análisis exhaustivo**: Considerar aspectos ambientales, económicos y logísticos.
+    - **Generación de insights**: Proporcionar información accionable para guiar a la empresa hacia un futuro sostenible y rentable.
 
-### Objetivos Técnicos
+#### Objetivos Técnicos:
+1. **Construir una infraestructura de datos en la nube**:
+    - **Pipeline de datos robusto**: Procesar y almacenar eficientemente la gran cantidad de datos disponibles.
 
-1. **Construyendo la autopista de datos en la nube:**
-   - Desarrollar un pipeline y arquitectura de datos robustos en la nube para procesar y almacenar de manera eficiente la gran cantidad de datos disponibles.
+2. **Dashboard interactivo**:
+    - **Facilidad de uso**: Presentar información relevante de manera comprensible para stakeholders de todos los niveles.
+    - **Visualización de datos complejos**: Facilitar el análisis y la comprensión de los datos.
 
-2. **Dashboard interactivo:**
-   - Crear un dashboard interactivo y fácil de usar que presente información relevante para la toma de decisiones sobre la implementación de la flota eléctrica.
-   - Facilitar la comprensión y el análisis de datos complejos para stakeholders de todos los niveles.
+3. **Modelo de machine learning no supervisado**:
+    - **Ubicaciones óptimas para estaciones de carga**: Entrenar y desplegar un modelo para identificar las mejores ubicaciones para las estaciones de carga de vehículos eléctricos.
+    - **Optimización de ubicaciones**: Maximizar la eficiencia, la rentabilidad y la satisfacción del cliente.
 
-3. **Modelo de machine learning predictivo:**
-   - Entrenar y desplegar un modelo de machine learning para identificar las ubicaciones óptimas para las estaciones de carga de vehículos eléctricos.
-   - Optimizar la ubicación de las estaciones de carga para maximizar la eficiencia, la rentabilidad y la satisfacción del cliente.
+### Productos:
+1. **Panel de control para la era eléctrica**:
+    - **Dashboard interactivo**: Presentar información crucial para la implementación de la flota eléctrica.
+    - **Análisis espaciales, temporales y técnicos/logísticos**: Ofrecer una visión completa del panorama de movilidad eléctrica.
 
-## Productos
+2. **Modelo de machine learning para la ubicación de estaciones de carga**:
+    - **Identificación precisa de ubicaciones**: Implementar un modelo que identifique las mejores ubicaciones para las estaciones de carga.
 
-1. **Un panel de control para la era eléctrica:**
-   - Desarrollar un dashboard interactivo que presente información crucial para la fase de implementación de la flota eléctrica.
-   - Incluir análisis espaciales, temporales y técnicos/logísticos para una visión completa del panorama.
+### Equipo:
+- **Rodrigo Nahuel Castro**: Data Engineer
+- **Maximiliano Javier Lizarraga**: Cloud Engineer
+- **Lucía Teresa Escobedo Villafane**: Data Analyst
+- **Amelia Cristina Herrera Briceño**: Data Analyst
+- **Nicolás Hernández Díaz**: Machine Learning Engineer
 
-2. **El mapa del futuro: Un modelo de machine learning para la ubicación de estaciones de carga:**
-   - Implementar un modelo de machine learning preciso para identificar las ubicaciones óptimas para las estaciones de carga de vehículos eléctricos.
+### Alcance del Proyecto:
+- **Área de movilidad**: Soluciones de movilidad de pasajeros.
+- **Área geográfica**: Ciudad de Nueva York, EEUU.
+- **Fuentes de datos**: NYC Open Data, TLC Trip Record Data, EPA NY, entre otras.
+- **Período de tiempo**: 2019 - 2023.
 
-## Equipo
+### KPIs:
+1. **Tasa de Cambio en la Demanda de Taxis**:
+    - **Objetivo**: Medir el cambio porcentual en la demanda de taxis mes a mes.
+    - **Fórmula**: ((DemandaActual − DemandaAnterior) / DemandaAnterior) × 100
+    - **Meta**: Crecimiento mensual constante en la demanda de taxis de al menos un 5%.
 
-- **Rodrigo Nahuel Castro:** Data Engineer
-- **Maximiliano Javier Lizarraga:** Cloud Engineer
-- **Lucia Teresa Escobedo Villafane:** Data Analyst
-- **Amelia Cristina Herrera Briceño:** Data Analyst
-- **Nicolás Hernández Díaz:** Machine Learning Engineer
+2. **Reducción Porcentual de Emisiones de CO2**:
+    - **Objetivo**: Calcular la reducción potencial de CO2 al implementar vehículos eléctricos.
+    - **Fórmula**: ((EmisionesCO2vehiculoConvencional − EmisionesCO2vehiculoElectrico) / EmisionesCO2vehiculoConvencional) × 100
+    - **Meta**: Reducción del 10% anual en las emisiones de CO2 por milla.
 
-## Alcance del Proyecto
+3. **Porcentaje de Crecimiento en la Base de Usuarios de Servicios de Taxi**:
+    - **Objetivo**: Medir el crecimiento en el número de usuarios de servicios de taxi.
+    - **Fórmula**: ((NumeroDeUsuariosAlFinalDelPeriodo − NumeroDeUsuariosAlInicioDelPeriodo) / NumeroDeUsuariosAlInicioDelPeriodo) × 100
+    - **Meta**: Incremento del 5% en la base de usuarios al final del período de análisis.
 
-- **Área de movilidad:** Logística para soluciones de movilidad.
-- **Área geográfica:** Ciudad de Nueva York.
-- **Fuentes de datos:** NYC Open Data, TLC Trip Record Data, entre otras.
-- **Periodo de tiempo:** 2017 - 2023.
+4. **Accesibilidad espacial de las estaciones de carga**:
+    - **Objetivo**: Medir la accesibilidad espacial de las estaciones de carga desde los puntos finales de los viajes de vehículos eléctricos.
+    - **Fórmula**: \[ D = \frac{1}{n} \sum_{i=1}^{n} \min_{j \in [1, m]} \text{Distancia}(PuntoFinal_i, EstacionDeCarga_j) \]
+    - **Meta**: Reducir la distancia promedio a la estación de carga más cercana en un 10%.
 
-## KPIs
+### Implementación Detallada:
 
-1. **Tasa de Cambio en la Demanda de Taxis:**
-   - **Objetivo:** Medir el cambio porcentual en la demanda de taxis mes a mes.
-   - **Fórmula:** \((DemandaActual − DemandaAnterior) / DemandaAnterior × 100\)
-   - **Meta:** Lograr un crecimiento mensual constante en la demanda de taxis de al menos un 5%.
+#### Configuración de Databricks:
+- **Ingesta y transformación de datos**: Utilizar Databricks para realizar ETL (Extracción, Transformación y Carga) avanzado de los datos.
+- **Almacenamiento**: Transformar los datos y almacenarlos en Azure SQL Database siguiendo la arquitectura Medallion (Bronce, Plata y Oro).
 
-2. **Reducción Porcentual de Emisiones de CO2:**
-   - **Objetivo:** Calcular la reducción potencial de CO2 al implementar vehículos eléctricos.
-   - **Fórmula:** \((EmisionesCO2vehiculoConvencional − EmisionesCO2vehiculoElectrico) / EmisionesCO2vehiculoConvencional × 100\)
-   - **Meta:** Alcanzar una reducción del 30% anual en las emisiones de CO2 por kilómetro.
+#### Almacenamiento de datos curados en Azure SQL Database:
+- **Recepción y almacenamiento de datos curados**: Asegurar que los datos están limpios y listos para análisis y modelado.
 
-3. **Porcentaje de Crecimiento en la Base de Usuarios de Servicios de Taxi:**
-   - **Objetivo:** Medir el crecimiento en el número de usuarios de servicios de taxi.
-   - **Fórmula:** \((NumerodeUsuariosalfinaldelPeriodo − NumerodeUsuariosaliniciodelPeriodo) / NumerodeUsuariosaliniciodelPeriodo\)
-   - **Meta:** Lograr un incremento del 10% en la base de usuarios al final del período de análisis.
+#### Construcción y despliegue de modelos en Azure Machine Learning:
+- **Entrenamiento de modelos**: Usar los datos almacenados para entrenar modelos de machine learning.
+- **Despliegue**: Procesar la información y encontrar patrones para mejorar las decisiones empresariales.
 
-4. **Accesibilidad espacial de las estaciones de carga:**
-   - **Objetivo:** Medir la accesibilidad espacial de las estaciones de carga desde los puntos finales de los viajes de vehículos eléctricos.
-   - **Fórmula:**
-     \[
-     D = \frac{1}{n} \sum_{i=1}^{n} \min_{j \in [1, m]} \text{Distancia}(PuntoFinal_i, EstacionDeCarga_j)
-     \]
-   - **Meta:** Reducir la distancia promedio a la estación de carga más cercana en un 10%.
+#### Visualización de datos y resultados en Power BI:
+- **Dashboards e informes**: Crear dashboards en Power BI para visualizar los datos y resultados de los modelos.
 
-## Implementación Detallada
+### Stack Tecnológico:
+- **Databricks**: Transformación avanzada de datos utilizando PySpark.
+- **Azure SQL Database**: Almacenamiento de datos estructurados.
+- **Power BI**: Visualización y creación de dashboards interactivos.
 
-1. **Configuración de Azure Data Factory:**
-   - Crear y configurar pipelines en Azure Data Factory para conectar con las fuentes de datos (Azure Synapse, Flat Files).
-   - Definir actividades de ingesta y transformación de datos, utilizando Databricks para la transformación de datos.
+### Carta Gantt: Movilidad en la Gran Manzana: Taxis, autos compartidos y la carrera hacia la sostenibilidad
 
-2. **Transformación de datos en Databricks:**
-   - Utilizar Databricks para realizar transformaciones avanzadas en los datos utilizando PySpark.
-   - Transformar datos en un formato adecuado y almacenarlos en Azure SQL Database.
+#### Sprint 1 (1 semana):
+- **Semana 1**:
+  - Definición del alcance y objetivos del proyecto.
+  - Configuración del repositorio en GitHub.
+  - Elaboración de un cronograma general y Carta Gantt.
+  - Implementación del stack tecnológico.
+  - Metodología de trabajo y repartición de tareas.
+  - Análisis preliminar de los datos (EDA) para definir KPIs y el modelo de machine learning.
 
-3. **Almacenamiento de datos curados en Azure SQL Database:**
-   - Configurar Azure SQL Database para recibir y almacenar datos curados.
-   - Asegurar que los datos están limpios, transformados y listos para análisis y modelado.
+#### Herramientas:
+- **Lenguajes de programación**: Python.
+- **Bibliotecas de análisis de datos**: Pandas, NumPy, scikit-learn.
+- **Herramientas de visualización de datos**: Matplotlib, Seaborn, Plotly.
+- **Entornos de desarrollo integrados**: Jupyter Notebook, Visual Studio Code.
+- **Plataformas de cloud computing**: Microsoft Azure.
+- **Software de gestión de proyectos**: Ganttpro.
+- **Herramientas de comunicación**: App.gather.town, Zoom.
+- **Presentaciones finales**: Power BI.
 
-4. **Construcción y despliegue de modelos en Azure Machine Learning:**
-   - Usar los datos almacenados en Azure SQL Database para entrenar modelos de machine learning en Azure ML.
-   - Desplegar los modelos entrenados y utilizar predicciones para mejorar las operaciones y decisiones empresariales.
+#### Sprint 2 (1 semana):
+- **Semana 2**:
+  - Revisión de ETL de los datos completos.
+  - Automatización del pipeline de ETL.
+  - Implementación de la estructura de los datos.
+  - Diseño del modelo de entidad-relación (ER).
+  - Configuración de pipelines para alimentar al Data Warehouse (DW).
+  - Validación de los datos.
+  - Documentación de cada punto anterior.
+  - Análisis de datos de muestra.
+  - Prueba del concepto del producto MVP.
 
-5. **Visualización de datos y resultados en Power BI y Streamlit:**
-   - Crear dashboards e informes en Power BI para visualizar datos y resultados de modelos de machine learning.
-   - Desarrollar aplicaciones web interactivas en Streamlit para permitir una interacción más profunda con los datos y los modelos de ML.
+#### Herramientas:
+- **Lenguajes de programación**: Python.
+- **Bibliotecas de análisis de datos**: Pandas, NumPy, scikit-learn.
+- **Herramientas de visualización de datos**: Matplotlib, Seaborn, Plotly.
+- **Entornos de desarrollo integrados**: Jupyter Notebook, Visual Studio Code.
+- **Plataformas de cloud computing**: Microsoft Azure.
+- **Software de gestión de proyectos**: Ganttpro.
+- **Herramientas de comunicación**: App.gather.town, Zoom.
+- **Herramientas de ETL**: Pandas, NumPy, etc.
+- **Herramientas de modelado de datos**: K-means, clustering.
+- **Herramientas de documentación**: Readme.md, Markdown, pdf.
+- **Herramientas de dashboarding**: Power BI.
+- **Herramientas de Machine Learning**: scikit-learn.
 
-## Stack Tecnológico
+#### Sprint 3 (1 semana):
+- **Semana 3**:
+  - Diseño del dashboard.
+  - Implementación de KPIs.
+  - MLOps.
+  - Modelo de machine learning.
+  - Modelo de ML en producción.
+  - Presentación general (informe del análisis).
 
-- **Azure Data Factory:** Orquestación y manejo de pipelines de datos.
-- **Azure Synapse Analytics:** Almacenamiento y análisis de datos a gran escala.
-- **Azure SQL Database:** Almacenamiento de datos estructurados.
-- **Databricks:** Transformación avanzada de datos utilizando PySpark.
-- **Azure Machine Learning:** Entrenamiento y despliegue de modelos de machine learning.
-- **Scikit-Learn:** Implementación de modelos de machine learning, incluyendo K-Means y DBSCAN.
-- **Power BI:** Visualización y creación de dashboards interactivos.
-- **Streamlit:** Desarrollo de aplicaciones web interactivas para la visualización y análisis de datos.
-- **NYC Open Data & TLC Trip Record Data:** Fuentes de datos para análisis y modelado.
-
-  
 ![Pie](Recursos%20de%20Marca/Pie%20de%20Pagina.png)
